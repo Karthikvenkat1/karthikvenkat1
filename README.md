@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! I'm velaga venkata Karthik 
 
-<!--
-**Karthikvenkat1/karthikvenkat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full Stack Developer | Python & Java Programmer**  
 
-Here are some ideas to get you started:
+I love building **web applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+- 🎓 Student at **Parul University**, Vadodara  
+- 💻 Passionate about **Web Development, Data Structures, and Problem Solving**  
+- 🌱 Currently exploring **MERN stack, Django, REST APIs, and Cloud**  
+- 💡 Interested in **AI, Machine Learning, and Scalable Applications**  
+- 🔭 Working on personal **projects, coding challenges, and portfolio websites**  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+Python | Java | C | C++ | JavaScript  
+
+### Frontend Development
+HTML5 | CSS3 | Bootstrap | TailwindCSS  
+
+### Backend & Databases
+ MySQL  
+
+### Tools & Platforms
+Git | GitHub | VS Code | PyCharm | Linux  
+
