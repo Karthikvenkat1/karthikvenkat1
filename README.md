@@ -27,3 +27,6 @@ HTML5 | CSS3 | Bootstrap | TailwindCSS
 ### Tools & Platforms
 Git | GitHub | VS Code | PyCharm | Linux  
 
+---
+📧 Email:velagavenkatakarthik@gmail.com
+📍 Location: Parul University, Vadodara, Gujarat
