@@ -16,7 +16,7 @@ I love building **web applications**
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-Python | Java | C | C++ | JavaScript  
+Python | Java | C  | JavaScript (basic)
 
 ### Frontend Development
 HTML5 | CSS3 | Bootstrap | TailwindCSS  
