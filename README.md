@@ -16,19 +16,20 @@ I love building **web applications**
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
-Python | Java | C  | JavaScript (basic)
+Python | Java(basic) | C  | JavaScript (basic)
 
 ### Frontend Development
 HTML5 | CSS3 | Bootstrap | TailwindCSS  
 
 ### Backend & Databases
- MySQL  
+MySQL  
 
 ### Tools & Platforms
 Git | GitHub | VS Code | PyCharm | Linux  
 
 ---
 ##📫 Let's Connect!
+
 📧 Email:velagavenkatakarthik@gmail.com
 
 📍 Location: Parul University, Vadodara, Gujarat
