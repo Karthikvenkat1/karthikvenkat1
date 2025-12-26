@@ -30,6 +30,26 @@ I love building **web applications** and solving challenging problems.
 `Git` | `GitHub` | `VS Code` | `PyCharm` | `Linux`  
 
 ---
+## 🚀 Project Overview
+
+The Expense Tracker allows users to:
+- Add daily expenses
+- Categorize spending
+- Track total expenses
+- Maintain financial discipline through simple records
+
+This project is built to practice **frontend development, JavaScript logic, and GitHub workflow**.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling  
+- **JavaScript** – Logic & Interactivity  
+- **Git & GitHub** – Version Control  
+
+---
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karthik_velaga_28)  
