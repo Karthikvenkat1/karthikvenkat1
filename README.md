@@ -24,7 +24,7 @@ I love building **web applications** and solving challenging problems.
 `HTML5` | `CSS3` | `Bootstrap` | `TailwindCSS`  
 
 ### Backend & Databases
-`MySQL`  
+`MySQL`|`mongodb`  
 
 ### Tools & Platforms
 `Git` | `GitHub` | `VS Code` | `PyCharm` | `Linux`  
