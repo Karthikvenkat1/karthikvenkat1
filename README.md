@@ -112,7 +112,7 @@ I enjoy transforming data into meaningful insights and building practical AI/ML 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🎬 1. Movie Review Sentiment Classifier
 
