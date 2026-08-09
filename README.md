@@ -1,38 +1,44 @@
-# 👋 Hi, I'm **Velaga Venkata Karthik**
+# 👋 Hi, I'm Velaga Venkata Karthik
 
-### 💻 CSE (AI) Student | Java Full Stack Developer | AI & Data Science Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;CSE+%28AI%29+Student;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-I'm a **B.Tech Computer Science (Artificial Intelligence) student at Parul University**, passionate about building practical software applications, solving problems using Data Structures & Algorithms, and exploring **Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/velaga-venkata-karthik-29bb13328/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Karthikvenkat1">
+    <img src="https://img.shields.io/badge/GITHUB-VISIT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/48BUKWaHaS/">
+    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="mailto:velagavenkatakarthik@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/karthik_velaga_28/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-Currently, I'm focused on strengthening my **Java, DSA, Full Stack Development, and AI/ML skills** while building projects and preparing for software engineering placements.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikvenkat1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-🎓 **Education:** B.Tech Computer Science (Artificial Intelligence), Parul University
+I'm a **B.Tech Computer Science (Artificial Intelligence) student at Parul University**, passionate about **Java Full Stack Development, Artificial Intelligence, Machine Learning, Data Science, and Data Structures & Algorithms**.
 
-📍 **Location:** Vadodara, Gujarat, India
+Currently, I'm focused on strengthening my **Java, DSA, Full Stack Development, AI/ML, and Cloud skills** while building practical projects and preparing for software engineering placements.
 
-💼 **Career Focus:** Java Full Stack Development | Software Engineering | AI & Machine Learning
-
-🧠 **Problem Solving:** 160+ LeetCode problems
-
-🚀 **Current Focus:** Java Full Stack Development, DSA, AI/ML & Cloud Technologies
-
----
-
-## 🔧 Technical Expertise
-
-### 💻 Programming
-
-```text
-Java          ███████████████░░░░░
-Python        ███████████████░░░░░
-C             █████████████░░░░░░░
-C++           ████████████░░░░░░░░
-JavaScript    ████████████░░░░░░░░
-```
+🎓 **Education:** B.Tech CSE (Artificial Intelligence) — Parul University  
+📍 **Location:** Vadodara, Gujarat, India  
+💼 **Career Focus:** Java Full Stack Development | Software Engineering | AI & Machine Learning  
+🧩 **LeetCode:** 160+ problems solved  
+🚀 **Currently Learning:** Spring Boot | DSA | AWS | Full Stack Development
 
 **Core Skills:**
 
