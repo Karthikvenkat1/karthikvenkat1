@@ -1,156 +1,338 @@
 # 👋 Hi, I'm **Velaga Venkata Karthik**
 
-### 💻 Computer Science (AI) Student | Full Stack Developer | AI & Data Science Enthusiast
+### 💻 CSE (AI) Student | Java Full Stack Developer | AI & Data Science Enthusiast
 
-I'm a **B.Tech Computer Science (Artificial Intelligence) student at Parul University**, passionate about building practical applications, solving problems with Data Structures & Algorithms, and exploring **Full Stack Development, Artificial Intelligence, Machine Learning, and Data Science**.
+I'm a **B.Tech Computer Science (Artificial Intelligence) student at Parul University**, passionate about building practical software applications, solving problems using Data Structures & Algorithms, and exploring **Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development**.
 
-I'm currently focused on becoming a **Java Full Stack Developer** while strengthening my problem-solving and software development skills.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech CSE (Artificial Intelligence) — **Parul University**
-* 💻 Interested in **Java Full Stack Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **AI, Machine Learning & Data Science**
-* 🌐 Building **Full Stack Web Applications**
-* ☁️ Learning **Cloud Technologies & AWS**
-* 🚀 Working on personal projects and coding challenges
-* 📚 Continuously improving my programming and development skills
+Currently, I'm focused on strengthening my **Java, DSA, Full Stack Development, and AI/ML skills** while building projects and preparing for software engineering placements.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary
 
-### 💻 Programming Languages
+🎓 **Education:** B.Tech Computer Science (Artificial Intelligence), Parul University
 
-`Java` `Python` `C` `JavaScript`
+📍 **Location:** Vadodara, Gujarat, India
 
-### 🌐 Frontend
+💼 **Career Focus:** Java Full Stack Development | Software Engineering | AI & Machine Learning
 
-`HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `React.js` `Next.js`
+🧠 **Problem Solving:** 160+ LeetCode problems
 
-### ⚙️ Backend
+🚀 **Current Focus:** Java Full Stack Development, DSA, AI/ML & Cloud Technologies
+
+---
+
+## 🔧 Technical Expertise
+
+### 💻 Programming
+
+```text
+Java          ███████████████░░░░░
+Python        ███████████████░░░░░
+C             █████████████░░░░░░░
+C++           ████████████░░░░░░░░
+JavaScript    ████████████░░░░░░░░
+```
+
+**Core Skills:**
+
+* Java Programming
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Problem Solving
+* Python Programming
+* JavaScript
+
+---
+
+### 🌐 Full Stack Development
+
+**Frontend:**
+
+`HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `JavaScript` `React.js` `Next.js`
+
+**Backend:**
 
 `Node.js` `Express.js` `Flask`
 
-### 🗄️ Databases
+**Databases:**
 
 `MySQL` `MongoDB`
 
-### 🤖 AI / Machine Learning
+---
 
-`Machine Learning` `NLP` `LSTM` `BERT` `PyTorch` `Hugging Face`
+### 🤖 AI & Machine Learning
 
-### ☁️ Cloud & Tools
+**Technologies:**
 
-`AWS` `Git` `GitHub` `VS Code` `Google Colab` `MongoDB Compass`
+`Python` `Scikit-learn` `PyTorch` `Hugging Face`
+
+**Areas of Interest:**
+
+* Machine Learning
+* Natural Language Processing
+* Deep Learning
+* Artificial Intelligence
+* Data Analysis
+* Generative AI
+
+**Currently Exploring:**
+
+`LSTM` `BERT` `NLP` `Generative AI`
 
 ---
 
-## 🚀 Featured Projects
+### ☁️ Cloud & Development Tools
 
-### 🎬 Movie Review Sentiment Classifier
-
-An NLP-based application that classifies movie reviews as **positive or negative** using deep learning.
-
-**Technologies:**
-`Python` `LSTM` `NLP` `Flask`
+`AWS` `Git` `GitHub` `VS Code` `Google Colab` `MongoDB Compass` `Linux`
 
 ---
 
-### 🤖 AI-Based Event Management Platform
+# 🚀 Featured Projects
 
-A full-stack event management platform designed to simplify event creation and management with AI-powered features.
+## 🎬 Movie Review Sentiment Classifier
 
-**Technologies:**
+### 🧠 NLP-Based Sentiment Analysis Application
+
+Developed a machine learning application that analyzes movie reviews and predicts whether the review expresses a **positive or negative sentiment**.
+
+**Key Features:**
+
+* 📝 Text preprocessing and NLP
+* 🧠 LSTM-based sentiment classification
+* 🔍 Text analysis
+* 🌐 Flask-based web interface
+* 📊 Sentiment prediction
+
+**Tech Stack:**
+
+`Python` `NLP` `LSTM` `Flask`
+
+---
+
+## 🤖 AI-Based Event Management Platform
+
+### 🌐 Full Stack Event Management Application
+
+Developed a full-stack event management platform with AI-powered functionality to simplify event creation and management.
+
+**Key Features:**
+
+* 🎟️ Event management
+* 👥 User interaction
+* 🌐 Responsive web interface
+* 🤖 AI-powered functionality
+* 🗄️ Database integration
+
+**Tech Stack:**
+
 `React` `Next.js` `Node.js` `MongoDB` `Gemini AI`
 
 ---
 
-### 📝 Text Summarization using BERT
+## 📝 Text Summarization using BERT
 
-An NLP project that generates concise summaries from lengthy text using transformer-based models.
+### 🤖 Transformer-Based NLP Application
 
-**Technologies:**
+Built an NLP application that generates concise summaries from longer text using transformer-based language models.
+
+**Key Features:**
+
+* 📄 Text processing
+* 🤖 BERT-based summarization
+* 🧠 Natural Language Processing
+* 📊 Transformer-based architecture
+
+**Tech Stack:**
+
 `Python` `BERT` `Hugging Face` `PyTorch`
 
 ---
 
-### 💰 Expense Tracker
+## 💰 Expense Tracker
 
-A web application for managing and tracking daily expenses.
+### 📊 Personal Expense Management Web Application
 
-**Features:**
+Built a simple web application to help users manage and track their daily expenses.
 
-* ➕ Add and manage expenses
-* 📊 Categorize spending
+**Key Features:**
+
+* ➕ Add expenses
+* 🗂️ Categorize spending
 * 💰 Track total expenses
-* 📋 Maintain simple financial records
+* 📋 Maintain expense records
+* 📱 Simple responsive interface
 
-**Technologies:**
-`HTML` `CSS` `JavaScript`
+**Tech Stack:**
 
----
-
-## 💼 Internship & Learning
-
-* 🎯 **Infosys Springboard Virtual Internship 6.0** — AI Domain
-* 📊 **Tata — GenAI Powered Data Analytics Job Simulation** via Forage
-* 🧠 Continuously learning **Machine Learning, Data Science & Full Stack Development**
-* 💻 Actively practicing **LeetCode & Striver SDE Sheet**
+`HTML5` `CSS3` `JavaScript`
 
 ---
 
-## 🧩 Problem Solving
+# 💼 Internship & Experience
 
-I regularly practice programming problems to improve my:
+### 🎯 Infosys Springboard Virtual Internship 6.0
 
-* Data Structures & Algorithms
-* Logical Thinking
-* Problem Solving
-* Java Programming
-* Competitive Programming fundamentals
+**Domain:** Artificial Intelligence
 
-- 🧩 **LeetCode:** [Velaga Venkata Karthik](https://leetcode.com/u/48BUKWaHaS/)
+Participating in an AI-focused virtual internship involving practical learning, technical assignments, and project-based development.
 
 ---
 
-## 📈 Current Goals
+### 📊 Tata — GenAI Powered Data Analytics Job Simulation
+
+**Platform:** Forage
+
+Completed a job simulation focused on **Generative AI and Data Analytics**, gaining practical exposure to data-driven problem solving and AI-assisted analysis.
+
+---
+
+# 🧩 Problem Solving
+
+I actively practice **Data Structures & Algorithms** to improve my problem-solving and coding abilities.
+
+### 🏆 LeetCode
+
+* 💻 **160+ problems solved**
+* ☕ Primarily using **Java**
+* 🏆 50 Days Badge
+* 🏆 100 Days Badge
+* 📚 Following structured DSA preparation
+
+🔗 **[View my LeetCode Profile](https://leetcode.com/u/48BUKWaHaS/)**
+
+---
+
+# 📊 GitHub Activity
+
+I use GitHub to document my learning journey, build projects, practice programming, and maintain my development work.
+
+### 💻 Areas I Work On
 
 ```text
-✅ Strengthen Java
-✅ Improve Data Structures & Algorithms
-🔄 Become a Java Full Stack Developer
-🔄 Build production-level projects
-🔄 Improve Machine Learning & AI skills
-🔄 Learn Cloud & AWS
-🎯 Prepare for software engineering placements
+Java Development
+        ↓
+Data Structures & Algorithms
+        ↓
+Full Stack Development
+        ↓
+AI / Machine Learning
+        ↓
+Cloud Technologies
 ```
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Current Goals
+
+```text
+✅ Strengthen Java & OOP
+✅ Practice Data Structures & Algorithms
+✅ Solve more LeetCode problems
+
+🔄 Become a Java Full Stack Developer
+🔄 Build scalable full-stack applications
+🔄 Improve Machine Learning & AI skills
+🔄 Learn AWS & Cloud Technologies
+
+🎯 Secure a software engineering role
+🎯 Build industry-ready projects
+```
+
+---
+
+# 📌 Core Competencies
+
+| Domain          | Skills                                                      |
+| --------------- | ----------------------------------------------------------- |
+| **Programming** | Java, Python, C, JavaScript                                 |
+| **DSA**         | Arrays, Strings, Hashing, Searching, Sorting, Recursion, DP |
+| **Frontend**    | HTML, CSS, Bootstrap, Tailwind, React, Next.js              |
+| **Backend**     | Node.js, Express.js, Flask                                  |
+| **Databases**   | MySQL, MongoDB                                              |
+| **AI / ML**     | Machine Learning, NLP, LSTM, BERT, PyTorch                  |
+| **Cloud**       | AWS                                                         |
+| **Tools**       | Git, GitHub, VS Code, Google Colab                          |
+
+---
+
+# 🌱 Learning Journey
+
+My current learning roadmap:
+
+```text
+Java
+  ↓
+OOP
+  ↓
+Data Structures & Algorithms
+  ↓
+Spring Boot
+  ↓
+REST APIs
+  ↓
+MySQL / MongoDB
+  ↓
+React
+  ↓
+Java Full Stack
+  ↓
+AWS & Cloud
+```
+
+Alongside development, I'm continuing to improve my knowledge of:
+
+```text
+Python → Machine Learning → NLP → Deep Learning → Generative AI
+```
+
+---
+
+# 💡 What I'm Interested In
+
+* 💻 Software Engineering
+* ☕ Java Full Stack Development
+* 🌐 Web Application Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📊 Data Science
+* ☁️ Cloud Computing
+* 🧩 Data Structures & Algorithms
+
+---
+
+# 📫 Let's Connect
+
+I'm always interested in connecting with developers, recruiters, and people working on interesting technology projects.
 
 * 💼 **LinkedIn:** [Velaga Venkata Karthik](https://www.linkedin.com/in/velaga-venkata-karthik-29bb13328/)
 * 🐙 **GitHub:** [Karthikvenkat1](https://github.com/Karthikvenkat1)
+* 🧩 **LeetCode:** [48BUKWaHaS](https://leetcode.com/u/48BUKWaHaS/)
 * 📸 **Instagram:** [@karthik_velaga_28](https://www.instagram.com/karthik_velaga_28/)
 * 📧 **Email:** [velagavenkatakarthik@gmail.com](mailto:velagavenkatakarthik@gmail.com)
 
 ---
 
-## ⚡ A Little More About Me
+# ⚡ Developer Mindset
 
 ```text
 💻 Code
+   ↓
 🧠 Learn
-🚀 Build
+   ↓
+🔨 Build
+   ↓
 🐛 Debug
+   ↓
 📚 Improve
-🔁 Repeat
+   ↓
+🚀 Repeat
 ```
 
-### ⭐ Thanks for visiting my profile!
+---
+
+### 🚀 "Learn continuously. Build consistently. Solve intelligently."
+
+**⭐ Thanks for visiting my GitHub profile!**
 
 Feel free to explore my repositories and connect with me.
