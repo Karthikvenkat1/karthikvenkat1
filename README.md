@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Velaga Venkata Karthik
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;CSE+%28AI%29+Student;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Aspiring+Java+Full+Stack+Developer;CSE+%28AI%29+Student;AI+%26+Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,21 +37,12 @@ Currently, I'm focused on strengthening my **Java, DSA, Full Stack Development, 
 🎓 **Education:** B.Tech CSE (Artificial Intelligence) — Parul University  
 📍 **Location:** Vadodara, Gujarat, India  
 💼 **Career Focus:** Java Full Stack Development | Software Engineering | AI & Machine Learning  
-🧩 **LeetCode:** 160+ problems solved  
-🚀 **Currently Learning:** Spring Boot | DSA | AWS | Full Stack Development
-
-**Core Skills:**
-
-* Java Programming
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Problem Solving
-* Python Programming
-* JavaScript
+🧩 **Problem Solving:** 160+ LeetCode Problems  
+🚀 **Currently Learning:** Spring Boot | REST APIs | AWS | Full Stack Development
 
 ---
 
-## 🔗 Technology Stack
+# 🔗 Technology Stack
 
 <div align="center">
 
@@ -60,95 +51,86 @@ Currently, I'm focused on strengthening my **Java, DSA, Full Stack Development, 
 | **Programming** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> |
 | **Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> |
 | **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> |
-| **AI / ML** | <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/NLP-412991?style=flat-square"/> |
+| **AI / ML** | <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/NLP-412991?style=flat-square"/> |
 | **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> |
 | **Cloud & Tools** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
 
 </div>
+
+---
+
 # 🚀 Featured Projects
 
 ## 🎬 Movie Review Sentiment Classifier
 
-### 🧠 NLP-Based Sentiment Analysis Application
+An NLP-based application that analyzes movie reviews and predicts whether the sentiment is **positive or negative**.
 
-Developed a machine learning application that analyzes movie reviews and predicts whether the review expresses a **positive or negative sentiment**.
+### Key Features
 
-**Key Features:**
+- 📝 Text preprocessing
+- 🧠 LSTM-based sentiment classification
+- 🔍 Natural Language Processing
+- 🌐 Flask web application
+- 📊 Sentiment prediction
 
-* 📝 Text preprocessing and NLP
-* 🧠 LSTM-based sentiment classification
-* 🔍 Text analysis
-* 🌐 Flask-based web interface
-* 📊 Sentiment prediction
-
-**Tech Stack:**
-
+**Tech Stack:**  
 `Python` `NLP` `LSTM` `Flask`
 
 ---
 
 ## 🤖 AI-Based Event Management Platform
 
-### 🌐 Full Stack Event Management Application
+A full-stack event management platform designed to simplify event creation and management with AI-powered functionality.
 
-Developed a full-stack event management platform with AI-powered functionality to simplify event creation and management.
+### Key Features
 
-**Key Features:**
+- 🎟️ Event management
+- 👥 User interaction
+- 🌐 Responsive web application
+- 🤖 AI-powered features
+- 🗄️ Database integration
 
-* 🎟️ Event management
-* 👥 User interaction
-* 🌐 Responsive web interface
-* 🤖 AI-powered functionality
-* 🗄️ Database integration
-
-**Tech Stack:**
-
+**Tech Stack:**  
 `React` `Next.js` `Node.js` `MongoDB` `Gemini AI`
 
 ---
 
 ## 📝 Text Summarization using BERT
 
-### 🤖 Transformer-Based NLP Application
+An NLP application that generates concise summaries from longer text using transformer-based models.
 
-Built an NLP application that generates concise summaries from longer text using transformer-based language models.
+### Key Features
 
-**Key Features:**
+- 📄 Text preprocessing
+- 🤖 BERT-based NLP
+- 🧠 Transformer architecture
+- 📊 Text summarization
 
-* 📄 Text processing
-* 🤖 BERT-based summarization
-* 🧠 Natural Language Processing
-* 📊 Transformer-based architecture
-
-**Tech Stack:**
-
+**Tech Stack:**  
 `Python` `BERT` `Hugging Face` `PyTorch`
 
 ---
 
 ## 💰 Expense Tracker
 
-### 📊 Personal Expense Management Web Application
+A web application for managing and tracking daily expenses.
 
-Built a simple web application to help users manage and track their daily expenses.
+### Features
 
-**Key Features:**
+- ➕ Add expenses
+- 🗂️ Categorize spending
+- 💰 Track total expenses
+- 📋 Maintain expense records
+- 📱 Responsive interface
 
-* ➕ Add expenses
-* 🗂️ Categorize spending
-* 💰 Track total expenses
-* 📋 Maintain expense records
-* 📱 Simple responsive interface
-
-**Tech Stack:**
-
+**Tech Stack:**  
 `HTML5` `CSS3` `JavaScript`
 
 ---
 
-# 💼 Internship & Experience
+# 💼 Internship & Learning
 
-### 🎯 Infosys Springboard Virtual Internship 6.0
+## 🎯 Infosys Springboard Virtual Internship 6.0
 
 **Domain:** Artificial Intelligence
 
@@ -156,7 +138,7 @@ Participating in an AI-focused virtual internship involving practical learning, 
 
 ---
 
-### 📊 Tata — GenAI Powered Data Analytics Job Simulation
+## 📊 Tata — GenAI Powered Data Analytics Job Simulation
 
 **Platform:** Forage
 
@@ -166,37 +148,34 @@ Completed a job simulation focused on **Generative AI and Data Analytics**, gain
 
 # 🧩 Problem Solving
 
-I actively practice **Data Structures & Algorithms** to improve my problem-solving and coding abilities.
+I regularly practice **Data Structures & Algorithms** to improve my coding, logical thinking, and problem-solving abilities.
 
 ### 🏆 LeetCode
 
-* 💻 **160+ problems solved**
-* ☕ Primarily using **Java**
-* 🏆 50 Days Badge
-* 🏆 100 Days Badge
-* 📚 Following structured DSA preparation
+- 💻 **160+ problems solved**
+- ☕ Primarily solving problems using **Java**
+- 🏆 50 Days Badge
+- 🏆 100 Days Badge
+- 📚 Following structured DSA preparation
 
-🔗 **[View my LeetCode Profile](https://leetcode.com/u/48BUKWaHaS/)**
+<p align="center">
+  <a href="https://leetcode.com/u/48BUKWaHaS/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
-I use GitHub to document my learning journey, build projects, practice programming, and maintain my development work.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikvenkat1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikvenkat1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-### 💻 Areas I Work On
-
-```text
-Java Development
-        ↓
-Data Structures & Algorithms
-        ↓
-Full Stack Development
-        ↓
-AI / Machine Learning
-        ↓
-Cloud Technologies
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthikvenkat1&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -206,110 +185,14 @@ Cloud Technologies
 ✅ Strengthen Java & OOP
 ✅ Practice Data Structures & Algorithms
 ✅ Solve more LeetCode problems
+✅ Build practical projects
 
-🔄 Become a Java Full Stack Developer
-🔄 Build scalable full-stack applications
-🔄 Improve Machine Learning & AI skills
+🔄 Learn Spring Boot
+🔄 Build REST APIs
+🔄 Improve Full Stack Development
 🔄 Learn AWS & Cloud Technologies
+🔄 Improve Machine Learning & AI skills
 
-🎯 Secure a software engineering role
+🎯 Become a Java Full Stack Developer
 🎯 Build industry-ready projects
-```
-
----
-
-# 📌 Core Competencies
-
-| Domain          | Skills                                                      |
-| --------------- | ----------------------------------------------------------- |
-| **Programming** | Java, Python, C, JavaScript                                 |
-| **DSA**         | Arrays, Strings, Hashing, Searching, Sorting, Recursion, DP |
-| **Frontend**    | HTML, CSS, Bootstrap, Tailwind, React, Next.js              |
-| **Backend**     | Node.js, Express.js, Flask                                  |
-| **Databases**   | MySQL, MongoDB                                              |
-| **AI / ML**     | Machine Learning, NLP, LSTM, BERT, PyTorch                  |
-| **Cloud**       | AWS                                                         |
-| **Tools**       | Git, GitHub, VS Code, Google Colab                          |
-
----
-
-# 🌱 Learning Journey
-
-My current learning roadmap:
-
-```text
-Java
-  ↓
-OOP
-  ↓
-Data Structures & Algorithms
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-MySQL / MongoDB
-  ↓
-React
-  ↓
-Java Full Stack
-  ↓
-AWS & Cloud
-```
-
-Alongside development, I'm continuing to improve my knowledge of:
-
-```text
-Python → Machine Learning → NLP → Deep Learning → Generative AI
-```
-
----
-
-# 💡 What I'm Interested In
-
-* 💻 Software Engineering
-* ☕ Java Full Stack Development
-* 🌐 Web Application Development
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Science
-* ☁️ Cloud Computing
-* 🧩 Data Structures & Algorithms
-
----
-
-# 📫 Let's Connect
-
-I'm always interested in connecting with developers, recruiters, and people working on interesting technology projects.
-
-* 💼 **LinkedIn:** [Velaga Venkata Karthik](https://www.linkedin.com/in/velaga-venkata-karthik-29bb13328/)
-* 🐙 **GitHub:** [Karthikvenkat1](https://github.com/Karthikvenkat1)
-* 🧩 **LeetCode:** [48BUKWaHaS](https://leetcode.com/u/48BUKWaHaS/)
-* 📸 **Instagram:** [@karthik_velaga_28](https://www.instagram.com/karthik_velaga_28/)
-* 📧 **Email:** [velagavenkatakarthik@gmail.com](mailto:velagavenkatakarthik@gmail.com)
-
----
-
-# ⚡ Developer Mindset
-
-```text
-💻 Code
-   ↓
-🧠 Learn
-   ↓
-🔨 Build
-   ↓
-🐛 Debug
-   ↓
-📚 Improve
-   ↓
-🚀 Repeat
-```
-
----
-
-### 🚀 "Learn continuously. Build consistently. Solve intelligently."
-
-**⭐ Thanks for visiting my GitHub profile!**
-
-Feel free to explore my repositories and connect with me.
+🎯 Prepare for software engineering placements
