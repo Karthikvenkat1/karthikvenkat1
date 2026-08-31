@@ -41,7 +41,6 @@ I enjoy working with data, building machine learning models, developing NLP appl
 - 🎯 Seeking **Data Science / Machine Learning Internship**
 
 ---
-
 # 🛠️ Technical Skills
 
 ## 👨‍💻 Programming Languages
@@ -51,6 +50,8 @@ I enjoy working with data, building machine learning models, developing NLP appl
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ## 📊 Data Science
 
@@ -62,25 +63,40 @@ I enjoy working with data, building machine learning models, developing NLP appl
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-**Skills:**  
-EDA • Data Cleaning • Data Preprocessing • Feature Engineering • Model Evaluation
+<p>
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Data%20Science-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-Data%20Science-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Data%20Science-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-Data%20Science-2F81F7?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🤖 Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Regression-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Classification-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clustering-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Decision%20Trees-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Random%20Forest-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SVM-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KNN-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/K--Means-ML-2F81F7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PCA-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Trees-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-2F81F7?style=for-the-badge"/>
 </p>
 
-**Skills:**  
-Cross-Validation • Hyperparameter Tuning • Model Evaluation • Feature Engineering
+<p>
+  <img src="https://img.shields.io/badge/SVM-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KNN-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/K--Means-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCA-2F81F7?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cross--Validation-ML-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-ML-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-ML-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🧠 Deep Learning & NLP
 
@@ -89,22 +105,42 @@ Cross-Validation • Hyperparameter Tuning • Model Evaluation • Feature Engi
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
 
-**Skills:**  
-Neural Networks • CNN • RNN • LSTM • GRU • Text Preprocessing • Word Embeddings  
-Transformers • T5 • Sentiment Analysis • Text Classification
+<p>
+  <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neural%20Networks-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RNN-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GRU-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Text%20Preprocessing-NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Word%20Embeddings-NLP-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Transformers-NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/T5-NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Text%20Classification-NLP-8A2BE2?style=for-the-badge"/>
+</p>
+
+---
 
 ## ✨ Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
 </p>
+
+---
 
 ## 🌐 Web & Backend
 
@@ -115,6 +151,8 @@ Transformers • T5 • Sentiment Analysis • Text Classification
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
+---
+
 ## 🗄️ Databases
 
 <p>
@@ -122,17 +160,29 @@ Transformers • T5 • Sentiment Analysis • Text Classification
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+---
+
 ## 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
+---
+
+## ☁️ Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 ---
 
 # 🚀 Featured Projects
