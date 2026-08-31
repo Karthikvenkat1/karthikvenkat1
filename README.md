@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Velaga Venkata Karthik
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;AI+%26+Generative+AI+Enthusiast;Data+Analytics+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Deep+Learning+%26+NLP+Enthusiast;Generative+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/velaga-venkata-karthik-29bb13328/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Karthikvenkat1">
-    <img src="https://img.shields.io/badge/GITHUB-VISIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/48BUKWaHaS/">
-    <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:[velagavenkatakarthik@gmail.com](mailto:velagavenkatakarthik@gmail.com)">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:velagavenkatakarthik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -27,356 +27,284 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering (Artificial Intelligence)** student at **Parul University**, passionate about **Data Science, Machine Learning, Artificial Intelligence, Generative AI, NLP, and Data Analytics**.
+I'm a **B.Tech Computer Science & Engineering (Artificial Intelligence)** student at **Parul University**, passionate about **Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Generative AI**.
 
-I enjoy transforming data into meaningful insights and building practical AI/ML applications to solve real-world problems.
+I enjoy working with data, building machine learning models, developing NLP applications, and creating practical AI-powered solutions to real-world problems.
 
-* 🎓 **B.Tech CSE (Artificial Intelligence)** — Parul University
-* 📅 **2023 – 2027**
-* 📊 **CGPA:** 7.06 / 10
-* 🐍 Primary programming language: **Python**
-* 🤖 Focus areas: **Machine Learning, Deep Learning, NLP & Generative AI**
-* 📈 Interested in **Data Science & Data Analytics**
-* 💻 **140+ DSA problems solved** on LeetCode
-* 🎯 Seeking **Data Science / Machine Learning Internship**
+- 🎓 **B.Tech CSE (Artificial Intelligence)** — Parul University
+- 📅 **Expected Graduation:** 2027
+- 📊 **CGPA:** 7.06 / 10
+- 🐍 Primary Programming Language: **Python**
+- 🤖 Focus Areas: **Machine Learning, Deep Learning, NLP & Generative AI**
+- 📊 Interested in **Data Science & Machine Learning**
+- 🧩 **150+ DSA problems solved** on LeetCode
+- 🎯 Seeking **Data Science / Machine Learning Internship**
 
 ---
 
 # 🛠️ Technical Skills
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 📊 Data Science & Analytics
+## 📊 Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### 🤖 Machine Learning
+**Skills:**  
+EDA • Data Cleaning • Data Preprocessing • Feature Engineering • Model Evaluation
+
+## 🤖 Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Regression-ML-2F81F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-ML-2F81F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clustering-ML-2F81F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PCA-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Classification-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clustering-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Trees-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SVM-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KNN-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/K--Means-ML-2F81F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCA-ML-2F81F7?style=for-the-badge"/>
 </p>
 
-### 🧠 Deep Learning & NLP
+**Skills:**  
+Cross-Validation • Hyperparameter Tuning • Model Evaluation • Feature Engineering
+
+## 🧠 Deep Learning & NLP
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LSTM-Deep%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BERT-NLP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
 </p>
 
-### 🌐 Web & Backend
+**Skills:**  
+Neural Networks • CNN • RNN • LSTM • GRU • Text Preprocessing • Word Embeddings  
+Transformers • T5 • Sentiment Analysis • Text Classification
+
+## ✨ Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-AI-8A2BE2?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases
+## 🌐 Web & Backend
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+## 🗄️ Databases
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+## 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
 ## 🎬 1. Movie Review Sentiment Classifier
 
-An NLP-based application that predicts whether a movie review is **positive or negative** using an LSTM deep learning model.
+An NLP-based sentiment classification application that predicts whether a movie review is **positive or negative** using an LSTM deep learning model.
 
-### Key Features
+### 🔑 Key Features
 
-* Text preprocessing and cleaning
-* Tokenization
-* Sequence padding
-* Word embeddings
-* LSTM-based sentiment classification
-* Model evaluation
-* Hyperparameter optimization
+- Text preprocessing and cleaning
+- Tokenization
+- Sequence padding
+- Word embeddings
+- LSTM-based sentiment classification
+- Model evaluation
+- Hyperparameter tuning
 
-**Tech Stack:** `Python` `TensorFlow` `Keras` `LSTM` `NLTK`
+### 🛠️ Tech Stack
+
+`Python` `TensorFlow` `Keras` `LSTM` `NLTK`
+
+🔗 **Repository:**  
+https://github.com/Karthikvenkat1/Moive_Review_Classifier
 
 ---
 
 ## 🤖 2. AI-Based Event Management Platform
 
-A full-stack event management platform combining **web technologies and Generative AI**.
+A full-stack event management platform combining modern web technologies with **Generative AI**.
 
-### Key Features
+### 🔑 Key Features
 
-* Event discovery and registration
-* QR-based ticket booking
-* QR ticket verification
-* Gemini AI-powered event creation
-* Personalized event recommendations
-* REST API development
-* Organizer dashboard
-* Event and booking management
+- Event discovery and registration
+- QR-based ticket booking
+- QR ticket verification
+- Gemini AI-powered event creation
+- Personalized event recommendations
+- REST API development
+- Organizer dashboard
+- Event and booking management
 
-**Tech Stack:** `React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Gemini AI`
+### 🛠️ Tech Stack
+
+`React.js` `Next.js` `Node.js` `Express.js` `MongoDB` `Gemini AI`
+
+🔗 **Repository:**  
+https://github.com/Karthikvenkat1/AI-Based-Event-Management-Platform
 
 ---
 
 ## 📝 3. Text Summarization Using T5
 
-An NLP application designed to generate concise summaries from longer text using transformer-based models.
+An abstractive NLP application that generates concise summaries from longer conversations using the **T5-small Transformer model**.
 
-### Key Features
+### 🔑 Key Features
 
-* Text preprocessing
-* Transformer-based NLP
-* T5 model integration
-* Text summarization
-* Hugging Face model integertion
-* PyTorch implementation
+- Text preprocessing
+- Tokenization
+- Padding and truncation
+- Transformer-based NLP
+- T5 model integration
+- Hugging Face Transformers
+- PyTorch implementation
+- Beam-search decoding
+- Model fine-tuning
 
-**Tech Stack:** `Python` `T5` `Hugging Face` `PyTorch`
+### 🛠️ Tech Stack
 
----
+`Python` `PyTorch` `Hugging Face Transformers` `T5` `Pandas` `NLP`
 
-## 💰 4. Expense Tracker
-
-A responsive web application for managing and tracking daily expenses.
-
-### Key Features
-
-* Add expenses
-* Categorize expenses
-* Track total spending
-* Maintain expense records
-* Responsive interface
-* Simple and user-friendly design
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+🔗 **Repository:**  
+https://github.com/Karthikvenkat1/Text-Summarization-Using-T5
 
 ---
 
-## 📉 5. Price Drop Email Alert System
+## 📉 4. Price Drop Email Alert System
 
-A web application designed to monitor product prices and notify users when a price drops below a desired threshold.
+A backend automation application that tracks product prices and sends email notifications when a product price drops below a user-defined threshold.
 
-### Key Features
+### 🔑 Key Features
 
-* Product price tracking
-* Web scraping
-* Price comparison
-* Automated monitoring
-* Email notifications
-* Scheduled background tasks
-* Database-based price storage
+- Product price tracking
+- Web scraping
+- Price history storage
+- Price comparison
+- Automated monitoring
+- Scheduled background tasks
+- Threshold-based alerts
+- Automated email notifications
 
-**Tech Stack:** `Python` `Flask` `SQLAlchemy` `BeautifulSoup` `APScheduler` `Gmail SMTP`
+### 🛠️ Tech Stack
 
----
+`Python` `FastAPI` `SQLAlchemy` `BeautifulSoup` `APScheduler` `Gmail SMTP`
 
-## 🌐 6. Personal Portfolio Website
-
-A responsive personal portfolio website showcasing my skills, projects, education, achievements, and contact information.
-
-### Key Features
-
-* Responsive design
-* About section
-* Skills section
-* Projects showcase
-* Education details
-* Contact section
-* Social media integration
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript`
+🔗 **Repository:**  
+https://github.com/Karthikvenkat1/PRICE_DROP_ALERT
 
 ---
 
-## 🧠 7. Machine Learning Projects & Experiments
+# 📜 Certifications & Courses
 
-A collection of machine learning experiments and implementations created while learning Data Science and Machine Learning.
-
-### Areas Covered
-
-* Exploratory Data Analysis
-* Data preprocessing
-* Feature engineering
-* Regression
-* Classification
-* Clustering
-* PCA
-* Model evaluation
-* Data visualization
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter Notebook`
-
----
-
-## 📊 8. Data Analytics & Visualization Projects
-
-A collection of data analysis projects focused on extracting insights from datasets and presenting them through meaningful visualizations.
-
-### Key Areas
-
-* Data cleaning
-* Exploratory Data Analysis
-* Statistical analysis
-* Feature analysis
-* Data visualization
-* Insight generation
-* Data-driven decision making
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Jupyter Notebook`
-
-#
-
----
-
-# 🏆 Certifications & Courses
-
-## 📊 1. Tata — GenAI Powered Data Analytics Job Simulation
-
-**Platform:** Forage
+### 📊 GenAI Powered Data Analytics — Forage
 
 Completed a practical job simulation focused on:
 
-* Generative AI
-* Data Analytics
-* Data-driven problem solving
-* AI-assisted analysis
+- Generative AI
+- Data Analytics
+- Data-driven problem solving
+- AI-assisted analysis
 
 ---
 
-## ☁️ 2. AZ-900 Microsoft Azure Fundamentals
-
-**Platform:** Udemy
+### ☁️ AZ-900: Microsoft Azure Fundamentals — Udemy
 
 Completed foundational learning covering:
 
-* Cloud concepts
-* Microsoft Azure fundamentals
-* Core Azure services
-* Cloud computing concepts
+- Cloud concepts
+- Microsoft Azure fundamentals
+- Core Azure services
+- Cloud computing concepts
 
 ---
 
-## 🤖 3. Apna College Prime 2.0 — Machine Learning & Data Science
+### 🤖 Introduction to OpenAI GPT Models — Infosys Springboard
+
+Completed foundational learning related to OpenAI GPT models and Generative AI concepts.
+
+---
+
+### ☁️ AWS Solutions Architecture — Forage
+
+Completed an AWS-focused job simulation covering cloud and solutions architecture concepts.
+
+---
+
+### 🧠 Apna College Prime 2.0 — Machine Learning & Data Science
 
 **Status:** 🔄 In Progress
 
 Learning:
 
-* Python for Data Science
-* Machine Learning
-* Data preprocessing
-* Model building
-* Model evaluation
-* Practical ML implementation
+- Python for Data Science
+- Machine Learning
+- Data preprocessing
+- Model building
+- Model evaluation
+- Practical ML implementation
 
 ---
 
-## 🎯 4. Infosys Springboard Virtual Internship 6.0 — Artificial Intelligence
+# 🏆 Achievements
 
-**Status:** 🏆 Selected / Participating
-
-AI-focused virtual internship involving technical learning, assignments, and project-based development.
-
----
-
-## 🐍 5. Python Programming & Data Science Training
-
-Focused learning in:
-
-* Python programming
-* NumPy
-* Pandas
-* Data preprocessing
-* Exploratory Data Analysis
-* Data visualization
-
----
-
-## 🧠 6. Machine Learning Training
-
-Focused learning in:
-
-* Supervised Learning
-* Regression
-* Classification
-* Unsupervised Learning
-* Clustering
-* PCA
-* Model evaluation
-* Feature engineering
-
----
-
-## 💬 7. Natural Language Processing & Deep Learning
-
-Focused learning in:
-
-* NLP fundamentals
-* Text preprocessing
-* Tokenization
-* Word embeddings
-* LSTM
-* Sentiment analysis
-* Transformer-based NLP
-
----
-
-## ✨ 8. Generative AI Learning
-
-Focused learning in:
-
-* Generative AI fundamentals
-* Gemini AI
-* AI-assisted applications
-* Prompt-based applications
-* Generative AI use cases
+- 💻 Solved **150+ Data Structures & Algorithms problems** on LeetCode
+- 🎯 Selected for **Infosys Springboard Virtual Internship 6.0 — Artificial Intelligence**
+- 📊 Completed **GenAI Powered Data Analytics Job Simulation**
+- ☁️ Completed **AZ-900 Microsoft Azure Fundamentals training**
+- 🤖 Built projects across **AI, Machine Learning, NLP, Deep Learning, Generative AI, and Backend Development**
 
 ---
 
 # 🧩 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** to improve my programming, logical thinking, and problem-solving abilities.
+I regularly practice **Data Structures & Algorithms** to strengthen my programming, logical thinking, and problem-solving abilities.
 
 ### 🏆 LeetCode
 
-* 💻 **140+ problems solved**
-* ☕ Java practice
-* 🐍 Python practice
-* 📚 Structured DSA preparation
-* 🧠 Focus on algorithmic problem solving
+- 💻 **150+ problems solved**
+- ☕ Java practice
+- 🐍 Python practice
+- 📚 Structured DSA preparation
+- 🧠 Algorithmic problem solving
 
 <p align="center">
   <a href="https://leetcode.com/u/48BUKWaHaS/">
@@ -402,77 +330,20 @@ I regularly practice **Data Structures & Algorithms** to improve my programming,
 # 🎯 Current Goals
 
 ```text
-✅ Strengthen Python Programming
-✅ Improve SQL Skills
-✅ Practice Data Structures & Algorithms
-✅ Build Machine Learning Projects
-✅ Improve Data Analytics Skills
-✅ Practice Exploratory Data Analysis
+🔄 Strengthen Python Programming
+🔄 Improve SQL Skills
+🔄 Practice Data Structures & Algorithms
+🔄 Build Machine Learning Projects
+🔄 Improve Data Analytics Skills
+🔄 Practice Exploratory Data Analysis
 
 🔄 Learn Advanced Machine Learning
 🔄 Improve Deep Learning & NLP
 🔄 Build Generative AI Applications
 🔄 Improve Data Visualization
-🔄 Strengthen Cloud & AWS Fundamentals
+🔄 Strengthen Cloud Fundamentals
 
 🎯 Become a Data Scientist / Machine Learning Engineer
 🎯 Gain Industry Experience
 🎯 Build Real-World AI & Data Science Projects
 🎯 Prepare for Data Science & Software Engineering Placements
-```
-
----
-
-# 📚 Areas of Interest
-
-* 📊 Data Science
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* 💬 Natural Language Processing
-* ✨ Generative AI
-* 📈 Data Analytics
-* 🐍 Python Development
-* 🗄️ SQL & Databases
-* 🧩 Data Structures & Algorithms
-* ☁️ Cloud Computing
-
----
-
-# 🏆 Achievements
-
-* 💻 Solved **140+ DSA problems** on LeetCode
-* 📈 Improved academic performance consistently
-* 🎯 Selected for **Infosys Springboard Virtual Internship 6.0**
-* 📊 Completed **Tata GenAI Powered Data Analytics Job Simulation**
-* ☁️ Completed **AZ-900 Microsoft Azure Fundamentals training**
-* 🤖 Building projects across **AI, ML, NLP, Data Science, and Full Stack Development**
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:[velagavenkatakarthik@gmail.com](mailto:velagavenkatakarthik@gmail.com)">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/velaga-venkata-karthik-29bb13328/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Karthikvenkat1">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/48BUKWaHaS/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>🚀 Learning every day • Building real-world projects • Solving problems • Growing with AI & Data</i>
-</p>
