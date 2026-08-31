@@ -151,7 +151,7 @@ A full-stack event management platform combining **web technologies and Generati
 
 ---
 
-## 📝 3. Text Summarization Using BERT
+## 📝 3. Text Summarization Using T5
 
 An NLP application designed to generate concise summaries from longer text using transformer-based models.
 
@@ -159,12 +159,12 @@ An NLP application designed to generate concise summaries from longer text using
 
 * Text preprocessing
 * Transformer-based NLP
-* BERT model integration
+* T5 model integration
 * Text summarization
-* Hugging Face models
+* Hugging Face model integertion
 * PyTorch implementation
 
-**Tech Stack:** `Python` `BERT` `Hugging Face` `PyTorch`
+**Tech Stack:** `Python` `T5` `Hugging Face` `PyTorch`
 
 ---
 
